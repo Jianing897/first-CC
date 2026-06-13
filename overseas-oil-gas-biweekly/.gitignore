@@ -1,0 +1,10 @@
+# 每期成稿与采集缓存，不入库
+reports/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 本地试生成文件（examples 内保留结构化 JSON 样例即可）
+examples/*.docx

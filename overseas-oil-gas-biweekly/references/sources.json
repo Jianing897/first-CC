@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "id": "oilprice_world",
+      "source_name": "Oil Price",
+      "source_platform": "Oil Price",
+      "list_url": "https://oilprice.com/Latest-Energy-News/World-News/",
+      "region_hint": null,
+      "topic_tags": ["world", "geopolitics", "oil-prices"]
+    },
+    {
+      "id": "worldoil_news",
+      "source_name": "World Oil",
+      "source_platform": "World Oil",
+      "list_url": "https://www.worldoil.com/news",
+      "region_hint": null,
+      "topic_tags": ["upstream", "contracts", "deepwater"]
+    },
+    {
+      "id": "meobserver",
+      "source_name": "ME Observer",
+      "source_platform": "The Middle East Observer",
+      "list_url": "https://meobserver.org/",
+      "region_hint": "中东",
+      "topic_tags": ["middle-east", "energy", "egypt"],
+      "energy_path_keywords": ["energy", "oil", "gas", "petroleum", "lng", "hydrocarbon", "nuclear", "pipeline"]
+    },
+    {
+      "id": "brazil_energy_insight",
+      "source_name": "Brazil Energy Insight",
+      "source_platform": "Brazil Energy Insight",
+      "list_url": "https://brazilenergyinsight.com/",
+      "region_hint": "巴西",
+      "topic_tags": ["brazil", "offshore", "pre-salt", "fpso"]
+    }
+  ]
+}

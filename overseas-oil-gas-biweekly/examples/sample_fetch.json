@@ -1,0 +1,658 @@
+{
+  "generated_at": "2026-06-12T17:42:04",
+  "since": "2026-06-01",
+  "until": "2026-06-12",
+  "count": 40,
+  "items": [
+    {
+      "id": "75ff9fdc-6aac-43bc-a339-b728db90ccac",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/11/cnooc-upgrades-automation-systems-at-buzzard-north-sea-oil-field/",
+      "title": "CNOOC upgrades automation systems at Buzzard North Sea oil field",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "d4e91371-9c45-4990-bb19-a0dd1fd27e7b",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/11/stryde-expands-land-seismic-portfolio-with-halo-node-family/",
+      "title": "STRYDE expands land seismic portfolio with Halo node family",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "46b9f309-a6a1-4726-94de-ad04b64ca507",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/11/kongsberg-deploys-new-seabed-mapping-system-on-nautilus-expedition/",
+      "title": "KONGSBERG deploys new seabed mapping system on Nautilus expedition",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "15fa7d1d-525a-4b51-b5d0-957b75cf5b1f",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/11/enverus-sees-brent-above-100-through-2027-after-hormuz-disruption/",
+      "title": "Enverus sees Brent above $100 through 2027 after Hormuz disruption",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "154876f7-d126-4bbc-be26-ae37b69b9d5a",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/11/ocean-installer-lands-major-subsea-contract-on-equinor-s-bacalhau-field/",
+      "title": "Ocean Installer lands major subsea contract on Equinor's Bacalhau field",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "077d3921-c9da-42e2-a14a-4ac43893cf7d",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/11/trump-threatens-strikes-on-iran-s-kharg-island-oil-export-hub/",
+      "title": "Trump threatens strikes on Iran's Kharg Island oil export hub",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "4a218f2d-e636-4e58-a2ef-e1a60765da20",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/11/trump-reverses-course-on-iran-strikes-easing-concerns-over-kharg-island/",
+      "title": "Trump reverses course on Iran strikes, easing concerns over Kharg Island",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "193523ad-bbcf-4599-ae83-9e49b2ea303c",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/11/tenaris-delivers-record-coiled-tubing-string-for-extended-reach-wells/",
+      "title": "Tenaris delivers record coiled tubing string for extended-reach wells",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "60e7b9af-bb6e-466a-8c34-8e2dc71837d8",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/11/report-canadian-energy-workforce-faces-wave-of-retirements-through-2035/",
+      "title": "Report: Canadian energy workforce faces wave of retirements through 2035",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "3ad9c18f-ed1f-42e6-8f04-b536f784a35b",
+      "fetched_at": "2026-06-12",
+      "source_platform": "The Middle East Observer",
+      "source_name": "ME Observer",
+      "url": "https://meobserver.org/energy/2026/06/11/egypt-clears-6-1bn-energy-arrears-targets-output-growth/",
+      "title": "Egypt Clears $6.1bn Energy Arrears, Targets Output Growth",
+      "published": "2026-06-11",
+      "snippet": "",
+      "region_hint": "中东",
+      "topic_tags": [
+        "egypt",
+        "energy",
+        "middle-east"
+      ]
+    },
+    {
+      "id": "af845a86-9e66-4b35-8b7e-0a25abf955c6",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/11/hanwha-ocean-built-fpsos-oil-offloading-opens-revenue-flows-for-petrobras/",
+      "title": "Hanwha Ocean-built FPSO’s oil offloading opens revenue flows for Petrobras",
+      "published": "2026-06-11",
+      "snippet": "Hanwha Ocean-built FPSO’s oil offloading opens revenue flows for Petrobras\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 11 (offshore-energy.biz) Brazilian state-owned energy heavyweight Petrobras has initiated a revenue stream with the first oil offloading from its eighth floating production, storage and offloading (FPSO) unit, which is working at a field in the Santos Basin off the coast of Brazil. Following its departure from Hanwha Ocean’s South Korean shipyard in Geoje in November 2025,.",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "930afccd-8805-4d6b-85ee-feff988e1ba9",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/11/from-oil-importer-to-export-leader-us-tops-global-oil-shipments/",
+      "title": "From Oil Importer to Export Leader: US Tops Global Oil Shipments",
+      "published": "2026-06-11",
+      "snippet": "From Oil Importer to Export Leader: US Tops Global Oil Shipments\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 11 (Reuters) The United States has become the world's largest oil exporter, upending a decades-old order long dominated by Saudi Arabia and Russia, a shift that tightens American companies' grip on energy markets as Washington's war with Iran reshapes global energy trade. America's ascendancy to the top spot marks a stunning reversal for a... Continue Reading →",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "cd21b8af-a73c-49d0-8ba1-31a5bd4c62bc",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/11/ocean-installer-announces-contract-with-equinor-for-well-tie-in-projects-in-the-bacalhau-field/",
+      "title": "Ocean Installer Announces Contract with Equinor for Well Tie-In Projects in the Bacalhau Field",
+      "published": "2026-06-11",
+      "snippet": "Ocean Installer Announces Contract with Equinor for Well Tie-In Projects in the Bacalhau Field\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 11 - Ocean Installer, a wholly owned subsidiary of Moreld ASA, has been contracted by Equinor to execute the well tie-in scope for the Bacalhau field in the Santos Basin. The contract is for 4.5 years, with options for extension and rigid jumper fabrication. The scope includes the installation of rigid well jumpers between... Continue Reading →",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "4cb67d16-c55e-4c25-bd20-5d3c127239d5",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/11/slb-pdvsa-target-ai-driven-transformation-of-venezuelas-oil-industry/",
+      "title": "SLB, PDVSA Target AI-Driven Transformation of Venezuela’s Oil Industry",
+      "published": "2026-06-11",
+      "snippet": "SLB, PDVSA Target AI-Driven Transformation of Venezuela’s Oil Industry\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 11 (OE) SLB has signed a long-term framework agreement with Venezuela's state oil company PDVSA to support the modernization and development of the country's oil and gas sector. The memorandum of understanding establishes a framework for cooperation across exploration, field development, production, digital enablement, and workforce training and development. The companies said",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "3a4e889a-f5d8-4026-bb24-19547a8387db",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/11/shearwater-nets-exxonmobils-seismic-survey-contract-offshore-guyana/",
+      "title": "Shearwater Nets ExxonMobil’s Seismic Survey Contract Offshore Guyana",
+      "published": "2026-06-11",
+      "snippet": "Shearwater Nets ExxonMobil’s Seismic Survey Contract Offshore Guyana\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 11 (OE) Shearwater Geoservices has been awarded a distributed acoustic sensing (DAS) seismic survey contract in the Stabroek Block offshore Guyana by ExxonMobil Guyana. The contract covers a two-month program comprising source-only seismic acquisition in support of a baseline DAS reservoir surveillance survey over the Yellowtail development area. Shearwater has deployed the vesse",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "0dad84c4-2025-499d-a270-930f485bbc03",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/10/petrobras-acquires-50-stake-in-campos-basin-exploration-block/",
+      "title": "Petrobras acquires 50% stake in Campos basin exploration block",
+      "published": "2026-06-10",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "6f8637e0-8e8d-466c-80e6-777e82a944f9",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/10/apa-acquires-north-slope-infrastructure-adds-acreage-and-production/",
+      "title": "APA acquires North Slope infrastructure, adds acreage and production",
+      "published": "2026-06-10",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "80d92ead-6ccf-44e9-8760-85ebaab3c2c1",
+      "fetched_at": "2026-06-12",
+      "source_platform": "World Oil",
+      "source_name": "World Oil",
+      "url": "https://www.worldoil.com/news/2026/6/10/tanker-tied-to-iranian-oil-trade-reports-fire-in-gulf-of-oman/",
+      "title": "Tanker tied to Iranian oil trade reports fire in Gulf of Oman",
+      "published": "2026-06-10",
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "contracts",
+        "deepwater",
+        "upstream"
+      ]
+    },
+    {
+      "id": "42c14694-640e-456f-888c-20100a49f7f8",
+      "fetched_at": "2026-06-12",
+      "source_platform": "The Middle East Observer",
+      "source_name": "ME Observer",
+      "url": "https://meobserver.org/energy/2026/06/10/egypt-tenders-egp4-5bn-link-for-dabaa-nuclear-power-plant/",
+      "title": "Egypt Tenders EGP4.5bn Link for Dabaa Nuclear Power Plant",
+      "published": "2026-06-10",
+      "snippet": "",
+      "region_hint": "中东",
+      "topic_tags": [
+        "egypt",
+        "energy",
+        "middle-east"
+      ]
+    },
+    {
+      "id": "344f056b-7edb-449b-a37a-73eec788bb76",
+      "fetched_at": "2026-06-12",
+      "source_platform": "The Middle East Observer",
+      "source_name": "ME Observer",
+      "url": "https://meobserver.org/energy/2026/06/10/egypt-and-syria-deepen-cooperation-on-gas-and-infrastructure/",
+      "title": "Egypt and Syria Deepen Cooperation on Gas and Infrastructure",
+      "published": "2026-06-10",
+      "snippet": "",
+      "region_hint": "中东",
+      "topic_tags": [
+        "egypt",
+        "energy",
+        "middle-east"
+      ]
+    },
+    {
+      "id": "ac81a9e3-f7c7-4798-b6bd-7ec53215d0e0",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/10/britain-offers-grid-connections-to-more-than-700-projects-in-energy-investment-push/",
+      "title": "Britain Offers Grid Connections to More Than 700 Projects In Energy Investment Push",
+      "published": "2026-06-10",
+      "snippet": "Britain Offers Grid Connections to More Than 700 Projects In Energy Investment Push\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 10 (Reuters) Britain has offered grid connections to more than 700 projects, the country's power planning body said on Wednesday, under a reformed allocation system expected to help unlock up to £40 billion in annual clean power investment. The allocations follow recent reforms replacing a \"first come, first served\" connection system that had led to bottlenecks, sa",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "bc8c8f1e-3e42-4606-8cca-f6b53bedb987",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/10/acquisition-of-interest-in-equinors-itaimbezinho-exploration-block-in-the-campos-basin/",
+      "title": "Acquisition of Interest in Equinor’s Itaimbezinho Exploration Block in the Campos Basin",
+      "published": "2026-06-10",
+      "snippet": "Acquisition of Interest in Equinor’s Itaimbezinho Exploration Block in the Campos Basin\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 10, 2026 – Petróleo Brasileiro S.A. – Petrobras informs that it has entered into an agreement with Equinor Brasil Energia Ltda. (Equinor) for the acquisition of a 50% interest in the Itaimbezinho block, in the offshore area of the Campos Basin. Equinor currently holds a 100% interest in the Itaimbezinho block and, upon completion... Continue Reading →",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "a5ee6189-6a82-41cb-9797-3e724ef79790",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/10/shell-makes-most-promising-subsurface-find-in-well-offshore-namibia/",
+      "title": "Shell Makes ‘Most Promising Subsurface’ Find in Well Offshore Namibia",
+      "published": "2026-06-10",
+      "snippet": "Shell Makes ‘Most Promising Subsurface’ Find in Well Offshore Namibia\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 10 (OE) Shell and its partners QatarEnergy and Namibia's national oil company NAMCOR have reported encouraging results from the Merlin-1X exploration well in Petroleum Exploration License 0039 (PEL 0039) offshore Namibia, with the well delivering the most promising subsurface results to date in the license area. Merlin-1X, the tenth well drilled under the license... Continue Rea",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "18d26cc8-65cd-4c3c-b7cf-ed2433e29e79",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/10/tgs-to-create-major-offshore-seismic-dataset-for-equatorial-guinea/",
+      "title": "TGS to Create Major Offshore Seismic Dataset for Equatorial Guinea",
+      "published": "2026-06-10",
+      "snippet": "TGS to Create Major Offshore Seismic Dataset for Equatorial Guinea\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 10 (OE) TGS has signed an agreement with Equatorial Guinea's Ministry of Hydrocarbon and Mining Development to create a large-scale offshore multi-client seismic dataset, marking the first phase of what is planned to become a nationwide MegaSurvey covering the country's offshore basins. The initial phase of the project will include post-stack reprocessing of approximately... Contin",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "55b6dcd1-aea9-424d-b96d-33d24d817c18",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Brazil Energy Insight",
+      "source_name": "Brazil Energy Insight",
+      "url": "https://brazilenergyinsight.com/2026/06/10/pxgeo-secures-equinor-deal-for-autonomous-subsea-inspection-trials/",
+      "title": "PXGEO Secures Equinor Deal for Autonomous Subsea Inspection Trials",
+      "published": "2026-06-10",
+      "snippet": "PXGEO Secures Equinor Deal for Autonomous Subsea Inspection Trials\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t \n\t\t\t\t\t\n\t\t\t\tJune 10 (OE) PXGEO has signed a one-year framework agreement with Equinor to conduct autonomous subsea inspection trials using Saab's Sabertooth Underwater Intervention Drone (UID) technology. The agreement will see the companies test and verify autonomous inspection capabilities, including validation of autonomous behaviors for offshore inspection operations. The first call-off under t",
+      "region_hint": "巴西",
+      "topic_tags": [
+        "brazil",
+        "fpso",
+        "offshore",
+        "pre-salt"
+      ]
+    },
+    {
+      "id": "ab40b8b9-f475-424d-b85f-810dda6c8c94",
+      "fetched_at": "2026-06-12",
+      "source_platform": "The Middle East Observer",
+      "source_name": "ME Observer",
+      "url": "https://meobserver.org/energy/2026/06/07/opec-output-falls-to-37-year-low-as-us-shale-expands/",
+      "title": "OPEC Output Falls to 37-Year Low as US Shale Expands",
+      "published": "2026-06-07",
+      "snippet": "",
+      "region_hint": "中东",
+      "topic_tags": [
+        "egypt",
+        "energy",
+        "middle-east"
+      ]
+    },
+    {
+      "id": "792ecff8-037e-4f94-8db3-bdd0d166f63f",
+      "fetched_at": "2026-06-12",
+      "source_platform": "The Middle East Observer",
+      "source_name": "ME Observer",
+      "url": "https://meobserver.org/business-economix/industry-insights/2026/06/07/egypt-bets-on-battery-storage-and-manufacturing-to-power-next-energy-phase/",
+      "title": "Egypt Bets on Battery Storage and Manufacturing to Power Next Energy Phase",
+      "published": "2026-06-07",
+      "snippet": "",
+      "region_hint": "中东",
+      "topic_tags": [
+        "egypt",
+        "energy",
+        "middle-east"
+      ]
+    },
+    {
+      "id": "a0c37741-622d-461b-b964-194b4918ea2b",
+      "fetched_at": "2026-06-12",
+      "source_platform": "The Middle East Observer",
+      "source_name": "ME Observer",
+      "url": "https://meobserver.org/economy/2026/06/03/insurance-not-oil-is-becoming-the-iran-wars-biggest-trade-shock/",
+      "title": "Insurance, Not Oil, Is Becoming the Iran War’s Biggest Trade Shock",
+      "published": "2026-06-03",
+      "snippet": "",
+      "region_hint": "中东",
+      "topic_tags": [
+        "egypt",
+        "energy",
+        "middle-east"
+      ]
+    },
+    {
+      "id": "4c3fa909-c83d-4d0b-a298-fb362d4b9eec",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Tumble-4-on-Iran-Peace-Optimism.html",
+      "title": "Oil Prices Tumble 4% on Iran Peace Optimism",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "67786614-39af-48aa-831f-dc61d5054e8e",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Hidden-Infrastructure-Challenge-Behind-Renewable-Energy-Growth.html",
+      "title": "The Hidden Infrastructure Challenge Behind Renewable Energy Growth",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "ede72b9b-09d0-47d6-9513-dfdf9f1650da",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Caps-Fuel-Sales-to-Avoid-Shortages.html",
+      "title": "India Caps Fuel Sales to Avoid Shortages",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "3c5e5d47-57de-497d-8c62-3a24f817f82e",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Cuts-2027-Oil-Price-Estimate-on-Demand-Uncertainty.html",
+      "title": "Goldman Sachs Cuts 2027 Oil Price Estimate on Demand Uncertainty",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "82773268-bfd0-4f35-b507-261ef3126201",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Outpacing-Supply-Through-2027.html",
+      "title": "OPEC Sees Oil Demand Growth Outpacing Supply Through 2027",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "9552b8d8-d408-4283-90d4-84c3501dca47",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Held-the-Biggest-IPO-Record-Tonight-It-Loses-the-Crown.html",
+      "title": "Oil Held the Biggest IPO Record. Tonight It Loses the Crown.",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "5bc0ca43-9adc-4045-9259-dcf8db5bc19d",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Is-Learning-to-Use-Less-Oiland-Thats-a-Bigger-Deal-Than-It-Sounds.html",
+      "title": "China Is Learning to Use Less Oil—and That's a Bigger Deal Than It Sounds",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "ed0531c4-a74a-4bb1-89a0-8fd37149c329",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Clean-Tech-Firms-Plan-Europes-Biggest-Direct-Air-Capture-Project.html",
+      "title": "UK Clean Tech Firms Plan Europe's Biggest Direct Air Capture Project",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "e5ad36d3-4bb2-4d04-8b3e-85ed6bb940ce",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Flags-Second-Tanker-Incident-Off-Oman-Within-24-Hours.html",
+      "title": "India Flags Second Tanker Incident Off Oman Within 24 Hours",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "e628a6f3-e846-4f87-82a4-4c91a6258d50",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Sanctioned-Private-Chinese-Refiner-Seeks-Non-Iranian-Crude.html",
+      "title": "Sanctioned Private Chinese Refiner Seeks Non-Iranian Crude",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "b3449e9e-88e2-43fa-8f08-190b71cdb6d3",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Another-Gulf-Producer-Joins-Dark-Mode-Tanker-Traffic-Through-Hormuz.html",
+      "title": "Another Gulf Producer Joins Dark-Mode Tanker Traffic Through Hormuz",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    },
+    {
+      "id": "48ee691f-bd72-4905-94b0-446ebf5c4411",
+      "fetched_at": "2026-06-12",
+      "source_platform": "Oil Price",
+      "source_name": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Secures-Crude-Supply-Through-August-with-Higher-UAE-Imports.html",
+      "title": "India Secures Crude Supply Through August with Higher UAE Imports",
+      "published": null,
+      "snippet": "",
+      "region_hint": null,
+      "topic_tags": [
+        "geopolitics",
+        "oil-prices",
+        "world"
+      ]
+    }
+  ]
+}
